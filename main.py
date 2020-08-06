@@ -221,6 +221,7 @@ def playBlackJack():
         print()
         print('Come back again when you have more. Goodbye!')
         print()
+        print()
 
 if __name__ == "__main__":
     playBlackJack()
